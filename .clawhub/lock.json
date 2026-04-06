@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "skills": {
+    "self-improving": {
+      "version": "1.2.16",
+      "installedAt": 1775497083355
+    },
+    "openclaw-tavily-search": {
+      "version": "0.1.0",
+      "installedAt": 1775497154982
+    },
+    "tool-finder": {
+      "version": "1.7.0",
+      "installedAt": 1775497483942
+    },
+    "find-skills-skill": {
+      "version": "1.0.0",
+      "installedAt": 1775497597850
+    },
+    "skill-vetter": {
+      "version": "1.0.0",
+      "installedAt": 1775497709896
+    },
+    "self-evolve": {
+      "version": "1.0.0",
+      "installedAt": 1775497943191
+    },
+    "github-ops": {
+      "version": "1.0.0",
+      "installedAt": 1775501058730
+    }
+  }
+}
