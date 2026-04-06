@@ -1,0 +1,35 @@
+# 临时文件和缓存
+*.tmp
+*.cache
+*.log
+.DS_Store
+Thumbs.db
+
+# OpenClaw运行时文件
+state/
+devices/
+*.json.tmp
+
+# 大文件（超过100MB）
+*.mp4
+*.mov
+*.avi
+*.zip
+*.tar.gz
+*.dmg
+
+# 编辑器临时文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 系统文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
